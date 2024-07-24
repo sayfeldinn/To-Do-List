@@ -1,0 +1,1 @@
+[{"text": "GO TO GYM", "checked": false}, {"text": "GO SHOPPING", "checked": true}, {"text": "meeting !", "checked": false}]
