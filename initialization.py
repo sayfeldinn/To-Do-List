@@ -9,6 +9,7 @@ root.title('To-Do List')
 root.geometry('350x500')
 root.resizable(False, True)
 root.config(background='grey')
+root.iconphoto(False, tk.PhotoImage(file='textures/icon.ico'))
 
 # Frames & Widgets
 
