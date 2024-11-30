@@ -2,7 +2,7 @@
 A user-friendly task management application designed to help you stay organized and productive.
 
 ## **Video Demo**
-[Watch the Demo]([https://www.youtube.com/watch?v=HOPF_dhpUqk](https://www.linkedin.com/posts/sayfeldinn_thrilled-to-share-my-progress-with-a-new-activity-7264411187159650304-NZnT?utm_source=share&utm_medium=member_desktop))
+[Watch the Demo on LinkedIn](https://www.linkedin.com/posts/sayfeldinn_thrilled-to-share-my-progress-with-a-new-activity-7264411187159650304-NZnT?utm_source=share&utm_medium=member_desktop)
 
 ## **Overview**
 The **To-Do List** application allows users to efficiently manage their daily tasks by adding, editing, and marking them as complete. With an intuitive interface, this tool is perfect for anyone looking to boost their productivity.
